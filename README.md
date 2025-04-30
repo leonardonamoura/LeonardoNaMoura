@@ -9,7 +9,7 @@
 
 **`Desenvolvedor FullStack`**
 
-⌨️ Me chamo Leonardo Nascimento, tenho 20 anos e sou natural do Rio de Janeiro. Concluí o ensino médio, e pretendo fazer curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISUAN. Sou apaixonado por tecnologia e futuramente pretendo compartilhar meus conhecimentos em um canal no youtube. Caso queira contato, eu tenho um instagram"[Leonardo_nm_](https://www.instagram.com/_leonardo_nm/)".
+⌨️ Me chamo Leonardo Nascimento, tenho 20 anos e sou natural do Rio de Janeiro. Concluí o ensino médio, e pretendo fazer cursos técnicos em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISUAN. Sou apaixonado por tecnologia e futuramente pretendo compartilhar meus conhecimentos em um canal no youtube. Caso queira contato, eu tenho um instagram"[Leonardo_nm_](https://www.instagram.com/_leonardo_nm/)".
 
 <p align="left">
    💻 
