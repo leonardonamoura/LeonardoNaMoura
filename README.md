@@ -3,7 +3,7 @@
 
 
 - 🔭 Eu estou trabalhando com o modelo full-stack
-- 🌱 N momento eu estou estudando sobre desenvolvimento mobile
+- 🌱 No momento eu estou estudando sobre desenvolvimento mobile
 
 # 👨🏻‍💻 Leonardonamoura
 
