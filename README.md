@@ -3,17 +3,17 @@
 
 
 - 🔭 Eu estou trabalhando com o modelo full-stack
-- 🌱 No momento eu estou estudando sobre desenvolvimento mobile
+- 📱 No momento eu estou desenvolvendo apps mobile com Ionic e Angular
 
 # 👨🏻‍💻 Leonardonamoura
 
 **`Desenvolvedor FullStack`**
 
-⌨️ Me chamo Leonardo Nascimento, tenho 20 anos e sou natural do Rio de Janeiro. Concluí o ensino médio, e pretendo fazer cursos técnicos em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISUAN. Sou apaixonado por tecnologia e futuramente pretendo compartilhar meus conhecimentos em um canal no youtube. Caso queira contato, eu tenho um instagram"[Leonardo_nm_](https://www.instagram.com/_leonardo_nm/)".
+⌨️ Me chamo Leonardo Nascimento, tenho 22 anos e sou natural do Rio de Janeiro. Sou formado em Análise e Desenvolvimento de Sistemas pela UNISUAN. Sou apaixonado por tecnologia e futuramente pretendo compartilhar meus conhecimentos em um canal no youtube. Caso queira contato, me chama no instagram.
 
 <p align="left">
    💻 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/leonardonamoura?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -27,6 +27,13 @@
             src="https://custom-icon-badges.demolab.com/github/followers/leonardonamoura?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.instagram.com/_leonardo_nm/">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://img.shields.io/badge/Instagram-__leonardo__nm-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
@@ -35,7 +42,7 @@
 
 <img 
     align="left" 
-    alt="HTML"
+    alt="HTML" 
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -44,7 +51,7 @@
 <img 
     align="left" 
     alt="CSS" 
-    title="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -52,15 +59,55 @@
 <img 
     align="left" 
     alt="JavaScript" 
-    title="JavaScript"
+    title="JavaScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Ionic" 
+    title="Ionic" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="PHP" 
-    title="PHP"
+    title="PHP" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
@@ -68,10 +115,18 @@
 <img 
     align="left" 
     alt="Python" 
-    title="Python"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <br/>
@@ -96,4 +151,3 @@
   />
 
 </p>
-
