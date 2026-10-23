@@ -21,8 +21,8 @@ Sou desenvolvedor full stack, formado em Análise e Desenvolvimento de Sistemas 
       <code>WordPress</code> <code>WooCommerce</code>
     </td>
     <td width="33%" valign="top">
-      <a href="https://constructorti.com/argos"><img src="assets/thumb-argos.png" alt="Argos" width="100%" /></a>
-      <h3><a href="https://constructorti.com/argos">Argos</a></h3>
+      <a href="https://argosleads.com"><img src="assets/thumb-argos.png" alt="Argos" width="100%" /></a>
+      <h3><a href="https://argosleads.com">Argos</a></h3>
       Software desktop que gera listas de leads B2B por nicho e cidade, cruzando OpenStreetMap com dados públicos de CNPJ.
       <br /><br />
       <code>Desktop</code> <code>Windows</code> <code>OpenStreetMap</code>
