@@ -1,153 +1,53 @@
-## olá!! Eu sou o leonardonamoura
+<img src="assets/hero.png" alt="Leonardo Nascimento, desenvolvedor full stack" width="100%" />
 
+## Sobre mim
 
+Sou desenvolvedor full stack, formado em Análise e Desenvolvimento de Sistemas pela UNISUAN. Na [ConstructorTI](https://constructorti.com), construo sites, lojas virtuais, sistemas web e automações com IA para pequenas e médias empresas, do levantamento de requisitos ao deploy.
 
-- 🔭 Eu estou trabalhando com o modelo full-stack
-- 📱 No momento eu estou desenvolvendo apps mobile com Ionic e Angular
+- **Agora:** desenvolvendo projetos para clientes e produtos próprios na ConstructorTI
+- **Estudando:** segurança ofensiva
+- **Certificação:** AWS Certified Cloud Practitioner
+- **Buscando:** uma vaga de desenvolvedor em um time de produto
 
-# 👨🏻‍💻 Leonardonamoura
+## Projetos em destaque
 
-**`Desenvolvedor FullStack`**
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://japaosakuraimports.com"><img src="assets/thumb-sakura.png" alt="Japão Sakura Imports" width="100%" /></a>
+      <h3><a href="https://japaosakuraimports.com">Japão Sakura Imports</a></h3>
+      E-commerce completo, do catálogo ao checkout, em operação.
+      <br /><br />
+      <code>WordPress</code> <code>WooCommerce</code>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://constructorti.com/argos"><img src="assets/thumb-argos.png" alt="Argos" width="100%" /></a>
+      <h3><a href="https://constructorti.com/argos">Argos</a></h3>
+      Software desktop que gera listas de leads B2B por nicho e cidade, cruzando OpenStreetMap com dados públicos de CNPJ.
+      <br /><br />
+      <code>Desktop</code> <code>Windows</code> <code>OpenStreetMap</code>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://constructorti.com"><img src="assets/thumb-constructor.png" alt="ConstructorTI" width="100%" /></a>
+      <h3><a href="https://constructorti.com">ConstructorTI</a></h3>
+      Site da minha empresa de engenharia de software, SaaS e segurança.
+      <br /><br />
+      <code>Site institucional</code>
+    </td>
+  </tr>
+</table>
 
-⌨️ Me chamo Leonardo Nascimento, tenho 22 anos e sou natural do Rio de Janeiro. Sou formado em Análise e Desenvolvimento de Sistemas pela UNISUAN. Sou apaixonado por tecnologia e futuramente pretendo compartilhar meus conhecimentos em um canal no youtube. Caso queira contato, me chama no instagram.
+### Também construí
 
-<p align="left">
-   💻 
-    <a href="https://github.com/leonardonamoura?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/leonardonamoura?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/leonardonamoura">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/leonardonamoura?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.instagram.com/_leonardo_nm/">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/Instagram-__leonardo__nm-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-</p>
+- **Agentes de IA para prospecção:** equipe de 7 agentes especializados no n8n, integrada à nova Google Places API.
+- **Painel de gestão para food truck:** sistema offline-first com Next.js 14, Tailwind CSS, shadcn/ui, Dexie.js e Recharts.
 
----
+## Stack
 
-### 🤖 Linguagens e Tecnologias
+<img src="assets/stack.png" alt="Stack: HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, Ionic, Tailwind CSS, shadcn/ui, Node.js, Supabase, PostgreSQL, MySQL, PHP, Python, APIs REST, n8n, Claude Code, Agentes de IA, WordPress, WooCommerce, Git, GitHub, Hostinger, AWS" width="100%" />
 
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript" 
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Angular" 
-    title="Angular" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Ionic" 
-    title="Ionic" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+## Contato
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Leonardonamoura&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardonamoura&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<a href="mailto:leonardonamoura@gmail.com"><img src="assets/btn-email.png" alt="E-mail" height="46" /></a>
+<a href="https://constructorti.com"><img src="assets/btn-site.png" alt="constructorti.com" height="46" /></a>
+<a href="https://www.instagram.com/_leonardo_nm/"><img src="assets/btn-instagram.png" alt="Instagram" height="46" /></a>
