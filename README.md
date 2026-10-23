@@ -13,7 +13,7 @@
 
 <p align="left">
    💻 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/leonardonamoura?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -79,21 +79,11 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Leonardonamoura&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardonamoura&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=leonardonamoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
+  <img height="180" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonamoura&theme=tokyonight&layout=compact&locale=pt-br&custom_title=Tecnologias&langs_count=8" />
 </p>
 
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardonamoura&theme=tokyonight&locale=pt_BR" />
+</p>
