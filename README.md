@@ -6,7 +6,7 @@ Sou desenvolvedor full stack, formado em Análise e Desenvolvimento de Sistemas 
 
 - **Agora:** desenvolvendo projetos para clientes e produtos próprios na ConstructorTI
 - **Estudando:** segurança ofensiva
-- **Certificação:** AWS Certified Cloud Practitioner
+- **Certificação:** Claude with Amazon Bedrock (Anthropic)
 - **Buscando:** uma vaga de desenvolvedor em um time de produto
 
 ## Projetos em destaque
@@ -48,6 +48,7 @@ Sou desenvolvedor full stack, formado em Análise e Desenvolvimento de Sistemas 
 
 ## Contato
 
+<a href="https://www.linkedin.com/in/leonardo-constructorti"><img src="assets/btn-linkedin.png" alt="LinkedIn" height="46" /></a>
 <a href="mailto:leonardonamoura@gmail.com"><img src="assets/btn-email.png" alt="E-mail" height="46" /></a>
 <a href="https://constructorti.com"><img src="assets/btn-site.png" alt="constructorti.com" height="46" /></a>
 <a href="https://www.instagram.com/_leonardo_nm/"><img src="assets/btn-instagram.png" alt="Instagram" height="46" /></a>
